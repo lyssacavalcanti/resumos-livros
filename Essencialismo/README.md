@@ -1,8 +1,8 @@
-# Essencialismo - A disciplinada busca por menos • Greg Mckeown
+# 📖 Essencialismo - A disciplinada busca por menos • Greg Mckeown
 
-## Resumo Techly
+## 📝 Resumo por Lyssa • Techly 
 
-### [Compre o livro aqui](https://amzn.to/3OB0ESL)
+### 📦 [Compre o livro aqui](https://amzn.to/3OB0ESL)
 
 | Parte 1 | Parte 2 |
 | --- |  --- |
@@ -15,4 +15,4 @@
 | ![Resumo Techly • Essencialismo](https://github.com/lyssacavalcanti/resumos-livros/blob/main/Essencialismo/png/Essencialismo%20%E2%80%A2%20Resumo%20Techly%20%E2%80%A2%20Parte%207.png#:~:text=Parte%206.png-,Essencialismo,-%E2%80%A2%20Resumo%20Techly%20%E2%80%A2%20Parte?raw=true) | ![Resumo Techly • Essencialismo](https://github.com/lyssacavalcanti/resumos-livros/blob/main/Essencialismo/png/Essencialismo%20%E2%80%A2%20Resumo%20Techly%20%E2%80%A2%20Parte%208.png#:~:text=Parte%207.png-,Essencialismo,-%E2%80%A2%20Resumo%20Techly%20%E2%80%A2%20Parte?raw=true) |
 | Parte 9 |
 | ![Resumo Techly • Essencialismo](https://github.com/lyssacavalcanti/resumos-livros/blob/main/Essencialismo/png/Essencialismo%20%E2%80%A2%20Resumo%20Techly%20%E2%80%A2%20Parte%209.png#:~:text=Parte%208.png-,Essencialismo,-%E2%80%A2%20Resumo%20Techly%20%E2%80%A2%20Parte?raw=true) | 
-### [Compre o livro aqui](https://amzn.to/3OB0ESL)
+### 📦 [Compre o livro aqui](https://amzn.to/3OB0ESL)
